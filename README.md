@@ -9,5 +9,5 @@ it is used to improve productivity and time management
 
 # Installation
 you need to install tkinter and playsound library to run this programm
-'pip install tkinter'
-'pip install playsound'
+`pip install tkinter`
+`pip install playsound`
